@@ -1,0 +1,9 @@
+{
+    "explorer.compactFolders": false,
+    "react-native-tools.logLevel": null,
+    "workbench.tree.renderIndentGuides": "always",
+    "zenMode.hideTabs": false,
+    "tabnine.disable_file_regex": [
+    
+    ]
+}

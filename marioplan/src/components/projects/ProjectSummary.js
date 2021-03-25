@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ProjectSummary = ({project}) => {
+const ProjectSummary = ({ project }) => {
   return (
     <div className="card z-depth-0 project-summary">
       <div className="card-content grey-text text-darken-3">
@@ -13,3 +13,6 @@ const ProjectSummary = ({project}) => {
 }
 
 export default ProjectSummary
+
+//Receiving the project prop from the parent
+// return <ProjectSummary key={project.id} project={project} />;   REFERENCE FROM ProjectList.js
